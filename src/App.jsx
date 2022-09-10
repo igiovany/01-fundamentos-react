@@ -15,9 +15,9 @@ const posts = [
       role: 'Web Developer'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },  
+      { type: 'paragraph', content: 'Opa, boa noite!' },
+      { type: 'paragraph', content: 'Estou iniciando os estudos em ReactJS na plataforma Ignite da RocketSeat, em breve estarei subindo novos projetos no meu GitHub!' },
+      { type: 'link', content: 'https://github.com/igiovany' },  
     ],
     publishedAt: new Date('2022-09-09 20:00:00'),
   },
@@ -29,9 +29,9 @@ const posts = [
       role: 'Software Developer'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },  
+      { type: 'paragraph', content: 'Apenas um teste' },
+      { type: 'paragraph', content: 'Testando o conteúdo do post!' },
+      { type: 'link', content: 'https://github.com/igiovany' },  
     ],
     publishedAt: new Date('2022-09-10 10:00:00'),
   },
